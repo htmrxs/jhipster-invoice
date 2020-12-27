@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.invoice"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "invoice",
+    "packageName": "com.jhipster.invoice",
+    "packageFolder": "com/jhipster/invoice",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTY3ZTkxNzU2ODlkMWIxZjNjYTNhOTM3YTIwMWQ5YWQ2OTU2NzJhNDc0NmE5MGNhOTk5NjAzYjgyNDgyMDdmOTBhZTMxNDU0OTE3NGI1ZTkwYjk3ZDcxOTZkMzU4MGNkNDMyNTBmMDlkOWNiZjY0ODRmMzI2MmY4MjNkMWE1YjI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1609067442778,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
